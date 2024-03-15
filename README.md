@@ -1,4 +1,4 @@
-# board_game_database
+# Board Game Database
 
 For the "Introduction to Web Programming" course, I created a site where users can add their board games.
 Features:
